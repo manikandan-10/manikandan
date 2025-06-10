@@ -11,5 +11,6 @@
 ![Screenshot (32)](https://github.com/user-attachments/assets/1b41d9bb-2ab8-4156-9ea2-00b783d1f81f)
 
 5.List all active addresses with their order counts and show 0 if no orders are placed from that address 
-![Screenshot (33)](https://github.com/user-attachments/assets/8149eace-16b3-4395-8747-079e0df0c45e)
+![Screenshot (34)](https://github.com/user-attachments/assets/ee8f01c8-1915-4592-9e12-e116b5925ed2)
+
 

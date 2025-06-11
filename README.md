@@ -13,4 +13,6 @@
 5.List all active addresses with their order counts and show 0 if no orders are placed from that address 
 ![Screenshot (34)](https://github.com/user-attachments/assets/ee8f01c8-1915-4592-9e12-e116b5925ed2)
 
+6.list the address type who ordered many item 
+![Screenshot (35)](https://github.com/user-attachments/assets/08df9543-7784-46d2-8f05-179321fe47f2)
 
